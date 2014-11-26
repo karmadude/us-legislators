@@ -1,0 +1,34 @@
+{
+  "name": "us-legislators",
+  "version": "1.0.0",
+  "homepage": "https://github.com/karmadude/us-legislators",
+  "authors": [
+    "Liji Jinaraj <karmadude@gmail.com>"
+  ],
+  "description": "US legislators data in JSON",
+  "main": "index.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "legislators",
+    "congress",
+    "json",
+    "data"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".git",
+    ".gitignore",
+    "Makefile",
+    "index.js",
+    "package.json",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "congress-legislators": "git@github.com:unitedstates/congress-legislators.git"
+  }
+}
