@@ -1,6 +1,16 @@
 # US Legislators
 
-US Legislators data in JSON. The following files contain the required data:
+US Legislators data in JSON. 
+
+### Installing
+
+```
+bower install us-legislators
+```
+
+### Data
+
+The following files contain the required data:
 
 #### legislator.json
 ```
@@ -107,6 +117,10 @@ US Legislators data in JSON. The following files contain the required data:
 The data is generated from congress-legilators data provided by https://github.com/unitedstates/congress-legislators. This original data is in `YAML` format and the `JSON` version can be found in `data` folder.
 
 ### Modifying
+
+```
+npm install us-legislators
+```
 
 To update the files, first update bower dependencies by running `bower install` and then `make`.
 
