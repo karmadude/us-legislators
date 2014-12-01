@@ -126,6 +126,11 @@ To update the files, first update bower dependencies by running `bower install` 
 
 Contribute to the project by forking this repo and submitting pull requests.
 
+### Examples
+
+- [US Senate and House Legislator Terms](http://indic8r.com/us/career-politicians)
+
+
 
 
 
