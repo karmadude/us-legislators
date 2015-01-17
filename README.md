@@ -122,7 +122,11 @@ The data is generated from congress-legilators data provided by https://github.c
 npm install us-legislators
 ```
 
-To update the files, first update bower dependencies by running `bower install` and then `make`.
+Run the following commands to update the files: 
+
+  $ bower install
+  $ bower update
+  $ make
 
 Contribute to the project by forking this repo and submitting pull requests.
 
